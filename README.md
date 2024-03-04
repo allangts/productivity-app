@@ -1,31 +1,31 @@
-# Painel de Comando da Vida
+# 🚀 Painel de Comando da Vida
 
 O **Painel de Comando da Vida** é um aplicativo desenvolvido para ajudar os usuários a gerenciar seus projetos, otimizar seu tempo, manter o foco e controlar suas finanças pessoais. A aplicação oferece várias funcionalidades úteis para auxiliar na organização e produtividade diárias.
 
 ## Funcionalidades Principais
 
-### 1. Gerenciamento de Projetos
+### 1. Gerenciamento de Projetos📊
 
 - Lista e gerencia projetos.
 - Adiciona detalhes, metas e prazos para cada projeto.
 - Acompanha o progresso de cada projeto.
 
-### 2. Timer Pomodoro
+### 2. Timer Pomodoro⏲️
 
 - Utiliza a técnica Pomodoro para períodos de trabalho e descanso.
 - Ajuda os usuários a manterem o foco e a produtividade.
 
-### 3. Anotações por Projeto
+### 3. Anotações por Projeto 📝
 
 - Permite fazer anotações específicas para cada projeto.
 - Documenta ideias, insights e progresso relacionados a cada projeto.
 
-### 4. Gerenciamento de Rotina
+### 4. Gerenciamento de Rotina📅
 
 - Organiza a rotina diária do usuário.
-- Cria agendas personalizadas e define lembretes.
+- Cria tarefas e defina quais são prioridades.
 
-### 5. Controle Financeiro
+### 5. Controle Financeiro💰
 
 - Controla finanças pessoais, visualizando gastos e receitas.
 - Define orçamento, acompanha despesas e analisa padrões de gastos.
